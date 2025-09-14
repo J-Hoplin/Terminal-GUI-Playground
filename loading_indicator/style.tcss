@@ -1,0 +1,14 @@
+LoadingIndicator {
+    color: red;
+}
+
+.hidden {
+    display: none;
+}
+
+#hello {
+    text-align: center;
+    margin: 2;
+    color: green;
+    text-style: bold;
+}
